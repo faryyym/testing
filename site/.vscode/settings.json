@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "[Gatito Theme]": {
+            "editor.background": "#1d2123",
+            "editorGutter.background": "#1d2123",
+            "menu.border": "#2b3337",
+            "window.activeBorder": "#4e4e4e",
+            "editorCursor.foreground": "#00ffdd"
+        }
+    }
+}
